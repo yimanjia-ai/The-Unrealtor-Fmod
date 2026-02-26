@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{89f1d89c-4eb0-4843-8d5b-0ef1dfea328c}">
+		<property name="assetPath">
+			<value>NEWVO/VODoorknobHint.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.7813333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b50b004d-600b-4096-8338-c7b1bf9d392e}</destination>
+		</relationship>
+	</object>
+</objects>

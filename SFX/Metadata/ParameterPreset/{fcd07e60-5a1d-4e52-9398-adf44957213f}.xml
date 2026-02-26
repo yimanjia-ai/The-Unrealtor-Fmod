@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{fcd07e60-5a1d-4e52-9398-adf44957213f}">
+		<property name="name">
+			<value>VoiceOver</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ecd2d3d8-bcac-4549-8ad8-5cece570ae75}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{611e78b9-3867-4fb1-989e-f8832675b3cd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{611e78b9-3867-4fb1-989e-f8832675b3cd}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e898c349-7650-40b4-84ba-c2f91899c399}">
+		<property name="assetPath">
+			<value>VoiceOver/VS1_house_separated_us.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>4.6933333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b50b004d-600b-4096-8338-c7b1bf9d392e}</destination>
+		</relationship>
+	</object>
+</objects>

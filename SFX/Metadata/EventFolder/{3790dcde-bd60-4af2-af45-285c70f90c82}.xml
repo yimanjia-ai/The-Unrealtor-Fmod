@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{3790dcde-bd60-4af2-af45-285c70f90c82}">
+		<property name="name">
+			<value>ETimer</value>
+		</property>
+		<relationship name="folder">
+			<destination>{61619403-b18b-410c-91d7-f698bce4a6bb}</destination>
+		</relationship>
+	</object>
+</objects>

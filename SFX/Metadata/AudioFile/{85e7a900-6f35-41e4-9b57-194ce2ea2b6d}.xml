@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{85e7a900-6f35-41e4-9b57-194ce2ea2b6d}">
+		<property name="assetPath">
+			<value>NEWVO/VOKidRoomMaya4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.3546666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b50b004d-600b-4096-8338-c7b1bf9d392e}</destination>
+		</relationship>
+	</object>
+</objects>

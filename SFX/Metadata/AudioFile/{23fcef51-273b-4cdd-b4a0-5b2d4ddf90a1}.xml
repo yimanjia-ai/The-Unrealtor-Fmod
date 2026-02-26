@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{23fcef51-273b-4cdd-b4a0-5b2d4ddf90a1}">
+		<property name="assetPath">
+			<value>NEWVO/VOParentDoorNoah1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.5866666666666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b50b004d-600b-4096-8338-c7b1bf9d392e}</destination>
+		</relationship>
+	</object>
+</objects>

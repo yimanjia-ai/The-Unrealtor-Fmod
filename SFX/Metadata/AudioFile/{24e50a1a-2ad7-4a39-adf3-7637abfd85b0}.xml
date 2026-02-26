@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{24e50a1a-2ad7-4a39-adf3-7637abfd85b0}">
+		<property name="note">
+			<value>0 - Studio
+1- Living Room
+2 - Children's Room
+3 - Living Room Upside Down
+4 - Bathroom
+5 - Parent's Bedroom
+6 - Final Room</value>
+		</property>
+		<property name="assetPath">
+			<value>NEW/ambience/AMBGeneral.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17.197020833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b50b004d-600b-4096-8338-c7b1bf9d392e}</destination>
+		</relationship>
+	</object>
+</objects>

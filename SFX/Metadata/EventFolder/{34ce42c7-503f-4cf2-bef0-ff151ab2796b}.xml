@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{34ce42c7-503f-4cf2-bef0-ff151ab2796b}">
+		<property name="name">
+			<value>PlungeSolve</value>
+		</property>
+		<relationship name="folder">
+			<destination>{61619403-b18b-410c-91d7-f698bce4a6bb}</destination>
+		</relationship>
+	</object>
+</objects>
